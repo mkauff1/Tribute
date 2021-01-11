@@ -1,2 +1,2 @@
 # Tribute
-My first tribut page
+My first tribute page
